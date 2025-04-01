@@ -3,15 +3,13 @@
 
 <p align="center"> <img src="https://img.shields.io/github/followers/Ben-html" alt="followers"> </p>
 
-<p align="center"> Contacta conmigo: <a href="https://discord.gg/users/1283860505819349016">Discord</a></p>
+<p align="center"> Contacta conmigo via Discord:@ben.is.cooking</a></p>
 
-<p align="center">Fundador de <a href="https://discord.gg/kayyshop">KayyShop</a></p>
-
-<p align="center">Todos mis proyectos <a href="https://github.com/Kayy9961?tab=repositories">aquí</a>.</p>
+<p align="center">Todos mis proyectos <a href="https://github.com/Ben-html?tab=repositories">aquí</a>.</p>
 
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
-<a href="https://discord.com/users/1291162796796411969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://discord.com/users/1283860505819349016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Lenguajes y herramientas:</h3>
