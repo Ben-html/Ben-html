@@ -5,7 +5,7 @@
 
 <p align="center"> Contacta conmigo via Discord:@ben.is.cooking</a></p>
 
-<p align="center">Todos mis proyectos <a href="https://github.com/Ben-html?tab=repositories">aquí</a>.</p>
+<p align="center">Todos mis proyectos <a href="https://github.com/Ben-x-sc?tab=repositories">aquí</a>.</p>
 
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
