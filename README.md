@@ -1,7 +1,7 @@
 <h1 align="center">Holaa Soy Ben</h1>
 <h3 align="center">Desarrollador principiante</h3>
 
-<p align="center"> <img src="https://img.shields.io/github/followers/Ben-html" alt="followers"> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/Ben-x-sc" alt="followers"> </p>
 
 <p align="center"> Contacta conmigo via Discord:@ben.is.cooking</a></p>
 
